@@ -1,0 +1,5 @@
+{
+  "name": "Interactive PDF Flipbook",
+  "description": "An elegant web application that transforms static PDFs into interactive, realistic flipbooks. Features include realistic page-turning animations, sound effects, and a responsive design for a book-like reading experience on any device.",
+  "requestFramePermissions": []
+}
